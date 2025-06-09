@@ -1,0 +1,222 @@
+# Capacitação Técnica - PEC, NVE e Supervisor SPDE
+
+## Nomes: PEC Tecnologia Davi, Supervisora Marli e Supervisora Daihy
+
+
+
+
+
+## Papéis e Responsabilidades em 2025: Relacionados à Sala do Futuro
+
+### Pontos Focais
+1. Foco na adoção dos responsáveis.
+2. Entendimento e divulgação das novidades para a rede.
+3. Direcionamento das dúvidas para cada área.
+
+### CIE/NVE
+4. O CIE/NVE deverá orientar as unidades escolares para que realizem campanhas para atualização dos telefones dos responsáveis.
+5. Atualização da ﬁcha do aluno (200 mil alunos sem responsável).
+
+## A Sala do Futuro
+
+A Sala do Futuro é um ecossistema que hospeda e centraliza acessos e informações acadêmicas e administrativas. Ao conectar os usuários a diversos sistemas dentro do mesmo ambiente, ela visa facilitar a vida do aluno, do professor e aproximar os responsáveis, da comunidade escolar.
+
+
+
+
+## Objetivo Sala Futuro
+
+### Alunos
+Alunos mais autônomos, engajados e com mais ferramentas para serem bem-sucedidos.
+
+DICA – Ensinar os estudantes a usar a Sala do futuro, de forma correta.
+Hoje – Os alunos acessam a Sala do Futuro, no mínimo, 7 vezes ao dia.
+
+### Responsáveis
+Responsáveis mais próximos e atuantes na vida de seus ﬁlhos e da comunidade escolar.
+DICA – Atualizar dados dos responsáveis (na SED), preferencialmente, de 6 em 6 meses ou sempre que necessário.
+Se cadastrar um responsável na Sed hoje, demora 24h para que ele tenha acesso à Sala do Futuro.
+
+## IMPORTANTE
+TODA CORREÇÃO DE DADOS E DOCUMENTOS, É FEITA NA SED, QUE É A BASE DE DADOS PARA A SALA DO FUTURO.
+
+DICA- HÁ VIDEOS DA SALA DO FUTURO NO INSTAGRAM DA SEDUC, QUE A ESCOLA PODE USAR PARA ORIENTAÇÃO.
+
+## Divulgação Sala do Futuro
+
+### Responsáveis
+Cenário atual:
+Nº de responsáveis acessando: 192.300(7,7%) de 2.500.000 (100%) Nº de escola sem nenhum acesso: 357 Escolas
+
+SALA DO FUTURO – Visa facilitar a vida do aluno, do professor e aproximar os responsáveis da vida escolar dos filhos, tornando-os mais atuantes.
+
+
+
+
+## DIÁRIO DE CLASSE - DEFINIÇÃO
+O Diário de Classe é uma ferramenta oﬁcial e obrigatória utilizada por professores para registrar a rotina pedagógica dos estudantes ao longo do ano letivo. No contexto da rede estadual de São Paulo, o Diário de Classe é um sistema digital integrado à Sala do Futuro – Professores e à Secretaria Escolar Digital (SED).
+
+### O QUE VOCÊ ENCONTRA NO DIÁRIO DE CLASSE – SFP
+
+## INTEGRAÇÕES ESSENCIAIS DO DIÁRIO DE CLASSE
+
+## IMPACTO DOS SISTEMAS
+
+### Matriz Curricular não cadastrada:
+Impossibilita a definição dos tipos de ensino, comprometendo a associação do professor às classes. Além disso, não serão disponibilizadas as disciplinas para o cadastro da grade horária.
+
+### Calendário não homologado:
+Impede a definição dos dias letivos, inviabilizando o lançamento de frequência e o registro de aulas.
+
+### Coleta de classe não realizada:
+As turmas não serão carregadas no sistema, impossibilitando a associação do professor à classe e, consequentemente, bloqueando os lançamentos de frequência, registros de aula, avaliações e fechamento.
+
+### Horário de aulas não cadastrado:
+Impede a configuração da grade horária, o que compromete os registros de aula e frequência.
+
+### Grade Horária ausente:
+Impossibilita a visualização dos horários por parte dos professores e da equipe gestora, impactando diretamente o lançamento de frequência e o registro de aulas.
+
+
+
+
+## CADASTRO DO HORÁRIO DAS AULAS
+O cadastro do horário das aulas define os horários de início e término das aulas para uma determinada turma.
+Para cadastrar, acesse à Secretaria Escolar Digital – SED, Menu: Gestão Escolar > Grade Horária > Cadastro de Horários das Aulas
+
+## CADASTRO DA GRADE HORÁRIA
+O cadastro da Grade Horária, possibilita que a escola cadastre os horários específicos de cada disciplina para cada turma.
+Para cadastrar a Grade Horária, acesse à Secretaria Escolar Digital – SED, Gestão Escolar> Grade Horária > Cadastrar Grade Horária
+
+## FREQUÊNCIA
+O lançamento de frequência só poderá ser realizado a partir do horário da aula;
+Professores com "dobradinha" poderão: Efetuar os dois registros simultaneamente a partir da segunda aula ou; Realizar cada lançamento nos respectivos horários de cada aula.
+A plataforma dispõe da funcionalidade "Duplicar Lançamento", que facilita o processo de registro para aulas consecutivas.
+
+## REGISTRO DE AULAS
+Para registrar as aulas, o professor poderá selecionar até dois materiais por aula; Em razão dessa limitação, professores com "dobradinha" deverão salvar cada registro separadamente; Diferentemente do lançamento de frequência, o registro de aulas poderá ser realizado antes do horário da aula.
+
+## AVALIAÇÃO
+O professor deverá preencher as informações referentes às avaliações a serem criadas, com um mínimo de 2 (duas) e um máximo de 10 (dez) avaliações por componente;
+É obrigatória a indicação do peso de cada avaliação, de forma que a soma totalize 100% ao final do lançamento;
+A média ponderada só poderá ser calculada caso o professor tenha distribuído 100% do peso entre as avaliações;
+A exclusão de uma avaliação só será possível se o professor tiver mais de 2 (duas) avaliações cadastradas;
+As avaliações imputadas automaticamente pela SEDUC receberão um peso sugerido, sendo permitido ao docente ajustar esse valor para mais ou para menos.
+
+## FECHAMENTO
+Nota Recuperação: Campo onde aparecerá a nota da recuperação de cada aluno. Bloqueado para edições.
+Nota: Campo com a nota bimestral do aluno. Esse campo fica aberto para edição até o fim do período de fechamento.
+Faltas: Campo com as faltas dos alunos, migradas no módulo de frequência. Aberto para edição.
+Ausências Compensadas: Campo aberto para o professor inserir a quantidade de ausências compensadas do aluno.
+Faltas Acumuladas: Campo fechado com a somatória das faltas dos alunos nos bimestres.
+
+
+
+
+## REGRA ALTERAÇÃO DA GRADE HORÁRIA
+Como funciona na prática:
+
+Se hoje, dia 28/04/2025 (segunda-feira), a grade horária aponta que o professor leciona às terças-feiras, essa informação é a válida para hoje.
+Se eu alterar a grade hoje, mudando a aula dele para segunda-feira, essa mudança só valerá a partir de amanhã, 29/04/2025 (terça-feira), e não retroagirá para o próprio dia 28/04.
+
+### ENTENDA A VIGÊNCIA DA ALTERAÇÃO DA GRADE HORÁRIA.
+28/04/2025 (segunda-feira)
+- Situação atual: Professor leciona às terças.
+- Alteração feita hoje: mudar aula para segunda-feira.
+-Sistema ainda enxerga a grade antiga (aula às terças).
+29/04/2025 (terça-feira, 5h00 da manhã)
+- A alteração feita no dia anterior entra em vigor.
+- Mas para o dia 28/04 (ontem), ainda vale a antiga grade.
+
+A alteração feita hoje nunca altera a grade de hoje. Ela só passa a vigorar no sistema no dia seguinte às 5h00 da manhã.
+
+05/05/2025 (próxima segunda-feira)
+- Primeira segunda-feira com a nova grade válida.
+- A partir daqui, o professor pode lançar aulas para segunda-feira.
+
+
+
+
+## RETOMANDO... ACESSO DO PROFESSOR EVENTUAL
+Para que os(as) professores(as) eventuais tenham acesso ao Diário de Classe, é necessário que a gestão da unidade escolar realize a vinculação do docente à turma, por meio do módulo Professor Presente, disponível na Secretaria Escolar Digital – SED.
+Ressaltamos que a indicação do(a) professor(a) eventual para substituir o(a) docente regente em determinada turma garante o acesso à referida turma no Diário de Classe pelo período de 5 (cinco) dias corridos, contados a partir do horário da aula atribuída.
+
+## VISUALIZAÇÃO DO EVENTUAL - DIÁRIO DE CLASSE
+Só lançamento de frequência e registro de aula.
+
+## PROFESSOR PRESENTE - DEFINIÇÃO
+O sistema Professor Presente é a ferramenta oficial para registrar substituições de aulas, permitindo que professores eventuais acessem e realizem os lançamentos no Diário de Classe das turmas para as quais foram designados.
+
+A indicação dos professores eventuais e atuação na funcionalidade poderá ser realizada pelos seguintes usuários:
+
+## PROFESSOR PRESENTE - Registro de substituição
+Para realizar o registro de substituição, o acesso desse ver realizado via funcionalidade: Recursos Humanos > Professor Presente > Gestão Presença Professor
+
+## PROFESSOR PRESENTE - Opções de Pesquisa
+Acessando a funcionalidade, é necessário realizar a indicação do dia em que a substituição ocorrerá e selecionar o tipo de pesquisa a ser realizado.
+Opções de Pesquisa:
+● Turno/Disciplina/Turma;
+● Tipo de Ensino/Turma;
+● CPF/DI;
+
+## PROFESSOR PRESENTE - Seleção de Aulas
+Após selecionar o tipo de pesquisa, poderá selecionar as aulas em que será realizada a substituição.
+
+A substituição só poderá ocorrer quando o professor regente não realizou o lançamento da frequência e registro de aula.
+Selecionada as aulas, clique no botão “Indicar”.
+
+## PROFESSOR PRESENTE - Indicação de substituição
+Após clicar para indicar a substituição, serão apresentas as aulas selecionadas.
+Selecione o tipo de vinculo que o professor que substituirá possui. Sendo as opções:
+● Docente com vinculo (Preenchimento do CPF e DI);
+● Eventual (Preenchimento CPF);
+Clique em salvar após os preenchimentos.
+
+## PROFESSOR PRESENTE - Conclusão da Indicação
+Indicação de substituição realizada, o professor responsável ficará com falta.
+A exclusão da indicação só será possível enquanto o professor substituto não realizar o lançamento de frequência ou registro de aula.
+A presença do Eventual só será contabilizada quando houver ambos os registros de Frequência e Registro de aula, o mesmo ocorre para o professor responsável.
+
+
+
+
+## Objetivo Sala do Futuro - Servidores
+Professores com mais informações e com mais tempo para focar no ensino.
+Gestores com todos os dados e informações importantes em mãos, para melhores decisões pedagógicas e administrativas.
+
+## Papéis e Responsabilidades SEDUC
+
+### 1. O que é responsabilidade da Sala do Futuro?
+
+#### Funcionalidades e Suporte:
+
+*   **Login e Acesso Geral:** Problemas de login na Sala do Futuro sobre qualquer perfil, de menos sobre instabilidades do Gov.br e perfil não cadastrado que deve ser atualizado na SED.
+*   **Interface e Usabilidade:** Problemas na navegação, tela preta, app fechando, mudança entre visões (Aluno, Responsável, Professor).
+*   **Mensageria:** Funcionalidade “Mensagens” e “Mural de avisos”, notificações e todas as comunicações internas como pop-ups.
+*   **Agenda Escolar:** Apenas exibimos os dados das fontes: grade horaria, calendário homologado SED e atividades cadastradas pelos professores. (os dados vêm das origens de cada um; a Sala do Futuro apenas exibe).
+*   **Boletim e Frequência:** Apenas exibimos os dados das fontes: notas e atividades cadastradas pelo professor (os dados vêm de outros sistemas; a Sala do Futuro apenas exibe).
+*   **Conquistas:** As funcionalidades de “Meus pontos” e “Minhas Conquistas”. A visualização de
+*   **Links e Redirecionamentos:** Garantir que os links para plataformas de aprendizado externas funcionem corretamente.
+*   **Justificativa de faltas:** A Sala do Futuro exibe as faltas vindas do diário de classe. As faltas justificadas pelos responsáveis são de responsabilidade da sala do Futuro.
+*   **Pesquisa:** A Sala do Futuro é responsável por toda a funcionalidade de pesquisa.
+*   **Troca de aluno:** A Sala do Futuro apenas exibe os dados da troca de alunos de acordo com o dado que a SED nos envia.
+*   **Perfil:** Todas as edições de telefones e email realizadas através da Sala do Futuro é enviada a SED, fazemos apenas essa conexão com a fonte original da SED.
+*   **Login com biometria:** Presente no APP para o professor na visão administrativa e é de responsabilidade da Sala do Futuro.
+*   **Rota entre visões pedagógica e administrativa dos servidores:** Responsabilidade Sala do Futuro, mas para que funcione é necessário ter feito login via Gov.br.
+*   **Relatórios:** A Sala do Futuro é responsável por apresentar os relatórios, os dados vêm dos respectivos assuntos presentes.
+*   **Atalho para Documentos:** Responsabilidade de exibição da sala do futuro, definição dos atalhos é COPED e funcionamento dos link é do repositório.
+*   **Token:** Exibição da interface é sala do futuro, regras para geração e definição de uso dos token é do time COPED.
+
+Atenção: A Sala do Futuro não cria, não edita e não gerencia os dados exibidos. Problemas nos dados devem ser tratados diretamente com os responsáveis pela sua origem.
+
+## Centro de Atendimento
+*   Apresentação do CEAT/Central de Atendimento
+*   Orientação de como interagir nos chamados
+
+## RESUMO DETALHADO
+https://saladofuturo-pontosfocais.vercel.app
+
+## Gratidão!
+Diretoria de Ensino de Sertãozinho/SP
+
+
